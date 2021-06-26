@@ -18,6 +18,12 @@ I manage a Salesforce Org with just under 70 users for a non-profit, (Arizona Co
 
 # Hobby Work
 
+## LWC OSS
+
+Using the [Salesforce open source Lightning Web Component](https://lwc.dev) off platform
+
+- [Reddit Client](https://github.com/jkenzer/reddit-lwc) - Building a simple reddit client using a custom @wire and playing with the UI using [SLDS](https://www.lightningdesignsystem.com)
+
 ## P5.js
 
 - [P5.js Editor Sketches](https://editor.p5js.org/jkenzer/sketches)
@@ -25,4 +31,8 @@ I manage a Salesforce Org with just under 70 users for a non-profit, (Arizona Co
 
 ## Raspberry Pi
 
+- [Pimoroni](https://github.com/jkenzer/pimoroni) - Playing with the [Pimoroni Unicorn HAT HD](https://shop.pimoroni.com/products/unicorn-hat-hd)
+
 ## Adafruit Magtag
+
+- [Magtag](https://github.com/jkenzer/magtag) - Internal server running on a raspberrypi feeding JSON data to a magtag to display on my fridge.
