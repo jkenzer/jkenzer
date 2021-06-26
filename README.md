@@ -1,6 +1,6 @@
 # Current Work
 
-I manage a Salesforce Org with just under 70 users for a non-profit, (Arizona Community Foundation)[https://www.azfoundation.org].
+I manage a Salesforce Org with just under 70 users for a non-profit, [Arizona Community Foundation](https://www.azfoundation.org).
 
 ## Developed Using
 
