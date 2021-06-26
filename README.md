@@ -35,4 +35,5 @@ Using the [Salesforce open source Lightning Web Component](https://lwc.dev) off 
 
 ## Adafruit Magtag
 
-- [Magtag](https://github.com/jkenzer/magtag) - Internal server running on a raspberrypi feeding JSON data to a magtag to display on my fridge.
+- [Magtag](https://github.com/jkenzer/magtag) - Magtag code to pull JSON data from raspberrypi to display custom messages on my fridge.
+- [Magtag Server Code](https://github.com/jkenzer/magtag-server) - Internal nodejs server running on a raspberrypi feeding JSON data to my magtag.
