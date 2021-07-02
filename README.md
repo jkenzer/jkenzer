@@ -37,3 +37,8 @@ Using the [Salesforce open source Lightning Web Component](https://lwc.dev) off 
 
 - [Magtag](https://github.com/jkenzer/magtag) - Magtag code to pull JSON data from raspberrypi to display custom messages on my fridge.
 - [Magtag Server Code](https://github.com/jkenzer/magtag-server) - Internal nodejs server running on a raspberrypi feeding JSON data to my magtag.
+
+## Codewars
+
+- [Codewars](https://www.codewars.com/) - When I want to code but don't want to work on a project, I like to do some codewars katas.
+- [My profile](https://www.codewars.com/users/jkenzer)
