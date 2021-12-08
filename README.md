@@ -27,8 +27,8 @@ Using the [Salesforce open source Lightning Web Component](https://lwc.dev) off 
 
 ## P5.js
 
+- [Sketches in Github](https://jkenzer.github.io/)
 - [P5.js Editor Sketches](https://editor.p5js.org/jkenzer/sketches)
-- [Sketches in Github](https://github.com/jkenzer/sketchbook)
 
 ## Raspberry Pi
 
