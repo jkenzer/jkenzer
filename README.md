@@ -18,11 +18,20 @@ I manage a Salesforce Org with just under 80 users for a non-profit, [Arizona Co
 
 # Hobby Work
 
+## LWC
+- [Screenflow Confetti](https://github.com/jkenzer/lwc-confetti) - Allows you to trigger a confetti canon in your screenflows.
+
 ## LWC OSS
 
 Using the [Salesforce open source Lightning Web Component](https://lwc.dev) off platform
 
+- [Movie Database](https://github.com/jkenzer/lwc-movie-database) - Building a simple LWC based integration with The Movie Database.
 - [Reddit Client](https://github.com/jkenzer/reddit-lwc) - Building a simple reddit client using a custom @wire and playing with the UI using [SLDS](https://www.lightningdesignsystem.com)
+
+## Other frameworks
+
+- [MLS Stickers](https://github.com/jkenzer/mls-stickers) - Learning some of the basics of Svelte and how they compare to Lightning Web Components.
+
 
 ## P5.js
 
