@@ -2,10 +2,11 @@
 
 ## Salesforce Admin, Developer, Architect
 
-### Triple Star Ranger
+![Triple Star Ranger](https://trailhead.salesforce.com/assets/ranks/triple-star-ranger-d4ed52fb8ec0280cecbeafa11b54ee4a75deae5f946113c6018a104e8a6939a6.png)
+
 [Trailblazer Profile](https://trailblazer.me/id/jkenzer)
 
-Salesforce Certifications
+**Salesforce Certifications**
 * Salesforce Certified Administrator
 * Salesforce Certified Platform App Builder
 * Salesforce Certified Platform Developer I
