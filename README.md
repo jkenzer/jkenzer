@@ -5,6 +5,14 @@
 ### Triple Star Ranger
 [Trailblazer Profile](https://trailblazer.me/id/jkenzer)
 
+Salesforce Certifications
+* Salesforce Certified Administrator
+* Salesforce Certified Platform App Builder
+* Salesforce Certified Platform Developer I
+* Salesforce Certified JavaScript Developer I
+* Salesforce Certified Service Cloud Consultant
+* Salesforce Certified CPQ Specialist
+
 ### Arizona Community Foundation
 
 I manage a Salesforce Org with just under 80 users for a non-profit, [Arizona Community Foundation](https://www.azfoundation.org).
