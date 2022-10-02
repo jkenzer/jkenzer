@@ -2,7 +2,7 @@
 
 ## Salesforce Architect, Developer, Admin
 
-[!["Trailhead profile"](profile-cropped.png)](https://trailblazer.me/id/jkenzer)
+[!["Trailhead profile for Josh Kenzer"](profile-josh-kenzer.jpg)](https://trailblazer.me/id/jkenzer)
 
 **Salesforce Certifications**
 
