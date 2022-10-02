@@ -2,11 +2,7 @@
 
 ## Salesforce Architect, Developer, Admin
 
-![Triple Star Ranger](https://trailhead.salesforce.com/assets/ranks/triple-star-ranger-d4ed52fb8ec0280cecbeafa11b54ee4a75deae5f946113c6018a104e8a6939a6.png)
-
-![Trailhead Badges](https://img.shields.io/badge/Trailhead%20Badges-338-green?logo=salesforce)
-
-[Trailblazer Profile](https://trailblazer.me/id/jkenzer)
+[!["Trailhead profile"](profile-cropped.png)](https://trailblazer.me/id/jkenzer)
 
 **Salesforce Certifications**
 

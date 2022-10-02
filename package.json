@@ -1,0 +1,26 @@
+{
+  "name": "jkenzer",
+  "version": "1.0.0",
+  "description": "Github Readme File",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkenzer/jkenzer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkenzer/jkenzer/issues"
+  },
+  "homepage": "https://github.com/jkenzer/jkenzer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "puppeteer": "^18.0.5",
+    "sharp": "^0.31.1"
+  }
+}
