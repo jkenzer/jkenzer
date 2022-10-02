@@ -1,6 +1,6 @@
 # Current Work
 
-## Salesforce Admin, Developer, Architect
+## Salesforce Architect, Developer, Admin
 
 ![Triple Star Ranger](https://trailhead.salesforce.com/assets/ranks/triple-star-ranger-d4ed52fb8ec0280cecbeafa11b54ee4a75deae5f946113c6018a104e8a6939a6.png)
 
@@ -21,11 +21,11 @@
 
 I manage a Salesforce Org with just under 80 users for a non-profit, [Arizona Community Foundation](https://www.azfoundation.org).
 
-## Developed Using
+### Developed Using
 
-- [NPSP](https://github.com/SalesforceFoundation/NPSP) - nonprofitsuccesspack
-- Lightning Web Components - A mix of custom LWC components I've written to both display data as well as facilitate business processes when Flows weren't the right choice.
-- Apex - Outside of controllers for the LWCs, I try and use Flow whenever possible instead of Apex. I do have a few triggers and Invokable Actions.
+- [NPSP](https://github.com/SalesforceFoundation/NPSP) - non-profit success pack
+- Lightning Web Components - A mix of custom LWC components I've written to display data as well as facilitate business processes when Flows aren't the right choice.
+- Apex - Outside of controllers for the LWCs, I try and use Flow whenever possible instead of Apex. I do have a few triggers and a growing number of Invokable Actions.
 
 ### Managed/Unmanged Packages
 
