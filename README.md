@@ -6,6 +6,7 @@
 
 **Salesforce Certifications**
 
+- Salesforce Certified Sharing and Visibility Architect
 - Salesforce Certified Administrator
 - Salesforce Certified Platform App Builder
 - Salesforce Certified Platform Developer I
