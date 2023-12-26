@@ -17,7 +17,7 @@ await page.screenshot({
   quality: 100,
   clip: {
     x: 545,
-    y: 345,
+    y: 312,
     width: 412,
     height: 283,
   },
